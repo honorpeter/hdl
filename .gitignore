@@ -79,3 +79,4 @@ gui
 qdb
 *.bin
 *.syn.*
+tmp-clearbox
